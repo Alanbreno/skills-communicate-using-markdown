@@ -6,3 +6,7 @@
 ###### Cabeçalho H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+var_x = [ 10,9,8,7,6,5,4,3,2,1 ]
+``` 
