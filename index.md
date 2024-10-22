@@ -9,4 +9,9 @@
 
 ``` python
 var_x = [ 10,9,8,7,6,5,4,3,2,1 ]
-``` 
+```
+
+- [x] Passo 1
+- [x] Passo 2
+- [x] Passo 3
+- [ ] Passo 4
